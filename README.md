@@ -25,5 +25,7 @@ To be honest, you don't have to do that, if you really love Nyan Cat or this pro
 ## Credits
 
 The Nyan Cat song is composed by daniwell and sung by Momone Momo.
+
 The Nyan Cat animation was originally made by prguitarman.
+
 The Nyan Cat video was provided by saraj00n.
