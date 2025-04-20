@@ -12,6 +12,7 @@ Play nyan cat in terminal.
 1. Clone the repo.
 2. Install FFMpeg and make sure it's in the PATH.
 3. Run `nyancat.py` and enjoy.
+(Script will play the theme on and on.)
 
 ## Embedding as an Easter Egg!
 
