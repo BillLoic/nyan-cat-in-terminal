@@ -12,6 +12,7 @@ Play nyan cat in terminal.
 1. Clone the repo.
 2. Install FFMpeg and make sure it's in the PATH.
 3. Run `nyancat.py` and enjoy.
+(Script will play the theme on and on.)
 
 ## Embedding as an Easter Egg!
 
@@ -27,5 +28,9 @@ To be honest, you don't have to do that, if you really love Nyan Cat or this pro
 The Nyan Cat song is composed by daniwell and sung by Momone Momo.
 
 The Nyan Cat animation was originally made by prguitarman.
+<<<<<<< HEAD
 
 The Nyan Cat video was provided by saraj00n.
+=======
+The Nyan Cat video was provided by saraj00n.
+>>>>>>> 99915dfe4e290a6aa1a971edae732e88231b3928
